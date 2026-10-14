@@ -1,0 +1,17 @@
+#v2
+14
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/imports.json	11876	459	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/snippets.json	10292	273	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/types.json	16313	277	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/keywords.json	4979	48	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/properties.json	38530	248	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/methods.json	35427	261	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/widgets_part1.json	34029	187	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/widgets_part2.json	24650	110	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/assets/dart_completions/widgets_part3.json	26391	116	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/java/com/flutteride/codweva/DartCompletions.java	25396	681	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/java/com/flutteride/codweva/CompletionContext.java	19521	493	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/java/com/flutteride/codweva/DartSnippets.java	9567	256	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/java/com/flutteride/codweva/CodeEditorView.java	54246	1460	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/AndroidManifest.xml	3534	71	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/Klencod IDE-1.2/app/src/main/java/com/flutteride/codweva/MainActivity.java	217764	5502	text

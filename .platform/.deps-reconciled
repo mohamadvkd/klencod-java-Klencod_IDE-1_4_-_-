@@ -1,0 +1,10 @@
+v=4
+g=2
+repos=https://repo1.maven.org/maven2,https://dl.google.com/android/maven2
+app|androidx.appcompat:appcompat:1.6.1|
+app|androidx.drawerlayout:drawerlayout:1.2.0|
+app|androidx.recyclerview:recyclerview:1.3.2|
+app|androidx.security:security-crypto:1.1.0-alpha06|
+app|androidx.viewpager2:viewpager2:1.0.0|
+app|org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.24|
+app|org.json:json:20230227|
